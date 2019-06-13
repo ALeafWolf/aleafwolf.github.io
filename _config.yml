@@ -4,10 +4,10 @@
 # ---------------------------------------------------------------
 
 # Site
-title: NexT
+title: A self-intro
 subtitle:
 description:
-author: John Doe
+author: LeafWolf
 # Support language: de, en, fr-FR, id, ja, ko, pt-BR, pt, ru, zh-Hans, zh-hk, zh-tw
 language: en
 date_format: '%Y-%m-%d'
@@ -736,3 +736,6 @@ images: assets/images
 
 # Theme version
 version: 5.1.1
+
+# Github page setting
+repository: ALeafWolf/aleafwolf.github.io
