@@ -4,8 +4,8 @@
 # ---------------------------------------------------------------
 
 # Site
-title: A Webpage
-subtitle: _(:з」∠)_
+title: _(:з」∠)_
+subtitle: 我爱摸鱼，摸鱼爱我
 description: 
 author: LeafWolf
 # Support language: de, en, fr-FR, id, ja, ko, pt-BR, pt, ru, zh-Hans, zh-hk, zh-tw
@@ -151,9 +151,9 @@ menu_icons:
 # ---------------------------------------------------------------
 
 # Schemes
-scheme: Muse
+#scheme: Muse
 #scheme: Mist
-#scheme: Pisces
+scheme: Pisces
 
 
 # ---------------------------------------------------------------
