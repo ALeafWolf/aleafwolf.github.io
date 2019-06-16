@@ -34,13 +34,15 @@ And I like all ships that related to him ~~at least I didn't find one I don't li
 
 ## Game
 
+My Steam account ----> <a href="https://steamcommunity.com/id/thesoulwolf/">Here</a>
+
 I mainly focus on the games in PC and Mobile platform (recently).
 
 My taste for the game is kinda... unpredictable. As long as the game can get my interest, I'll spend time on it, regardless the graphic, game type, etc.
 
 ### PC
 
-List of the game based on my play time on Steam, just as a sample for my game taste owo:
+Here are some of the games listed based on my play time on Steam, just as a sample for my game taste owo:
 
 <img src="/assets/images/post_images/steam-game-list1.png">
 
@@ -88,4 +90,5 @@ Not very active on this right know.
 
 ## Others
 **I have to say sorry if you see me spam bunch of strange simbol all the time (if you cannot read Madarin), because I find it's more comfortable to scream in my native language.**
-You still can chat with me in English if you like. _(:з」∠)_
+
+You can chat with me in English. _(:з」∠)_
