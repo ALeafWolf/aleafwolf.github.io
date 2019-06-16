@@ -40,9 +40,9 @@ My taste for the game is kinda... unpredictable. As long as the game can get my 
 
 List of the game based on my play time on Steam, just as a sample for my game taste owo:
 
-! [steam] (images/steam-game-list1.png)
+![steam] (./images/steam-game-list1.png)
 
-[steam]: images/steam-game-list2.png
+[steam]: ./images/steam-game-list2.png "list part 2"
 
 [steam]: images/steam-game-list3.png
 
@@ -53,7 +53,7 @@ List of the game based on my play time on Steam, just as a sample for my game ta
 
 In the CN official server. 
 
-[Arknights]: /imges/arknights.png
+[Arknights]: images/arknights.png "profile"
 
 Currently addicted to this game. Hope the global server can come up soon, then I can find more ppl to discuss about this game w. 
 
