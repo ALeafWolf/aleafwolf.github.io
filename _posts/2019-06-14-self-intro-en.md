@@ -40,7 +40,7 @@ My taste for the game is kinda... unpredictable. As long as the game can get my 
 
 List of the game based on my play time on Steam, just as a sample for my game taste owo:
 
-[steam]: /images/steam-game-list1.png
+! [steam] (/images/steam-game-list1.png)
 
 [steam]: /images/steam-game-list2.png
 
