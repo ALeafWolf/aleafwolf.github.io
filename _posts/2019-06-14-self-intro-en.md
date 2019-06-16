@@ -34,7 +34,7 @@ And I like all ships that related to him ~~at least I didn't find one I don't li
 
 ## Game
 
-**My Steam account** ----> <a href="https://steamcommunity.com/id/thesoulwolf/">Here</a>
+**My Steam account** ----> <a href="https://steamcommunity.com/id/thesoulwolf/" target="_blank">Here</a>
 
 I mainly focus on the games in PC and Mobile platform (recently).
 

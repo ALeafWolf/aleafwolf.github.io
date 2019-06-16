@@ -1,7 +1,7 @@
 ---
 title: 一个个人简介
 ---
-## About me
+## 关于我
 
 旁友你好(*´▽｀)ノノ，这里是叶子狼。一个学计算机科学的普通阿宅，梦想是成为一个能养活自己的技术宅。目前位于枫叶国。
 
@@ -19,7 +19,7 @@ title: 一个个人简介
 
 ### PC
 
-**我的Steam账号** ----> <a href="https://steamcommunity.com/id/thesoulwolf/">点这</a>
+**我的Steam账号** ----> <a href="https://steamcommunity.com/id/thesoulwolf/" target="_blank">点这</a>
 
 下面是我Steam里根据游玩时间排的游戏前几名，大概能反映出我的兴趣，吧
 
