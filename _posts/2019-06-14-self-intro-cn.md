@@ -19,7 +19,7 @@ title: 一个个人简介
 
 ### PC
 
-我的Steam账号 ----> <a href="https://steamcommunity.com/id/thesoulwolf/">点这</a>
+**我的Steam账号** ----> <a href="https://steamcommunity.com/id/thesoulwolf/">点这</a>
 
 下面是我Steam里根据游玩时间排的游戏前几名，大概能反映出我的兴趣，吧
 
