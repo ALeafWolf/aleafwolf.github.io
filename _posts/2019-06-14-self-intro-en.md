@@ -9,6 +9,8 @@ Born in Chinese Mainland, currently live in Canada.
 
 Native language is Mandarin, fluent(?) in English, and my Japanese is... fluent in Hiragana ~~I cannot even read all Katakana uwu~~.
 
+A computer science study who still don't know which field to focus qaq.
+
 ## Favourite Character/Ship
 
 Heshikiri Hasebe from Touken Ranbu is my first, and the only favourite character for now. (\*╹▽╹*)
@@ -17,9 +19,9 @@ And I like all ships that related to him ~~at least I didn't find one I don't li
 
 * **saniheshi** (both female and male sani)
 
-* heshisani
+* **heshisani**
 
-* heshiheshi
+* **heshiheshi**
 
 * kuriheshi
 
@@ -73,7 +75,7 @@ In CN server, IOS.
 
 <img src="/assets/images/post_images/fgo1.png">
 
-<img src="/assets/images/post_images/images/fgo2.png">
+<img src="/assets/images/post_images/fgo2.png">
 
 Not very active on this right know. 
 
@@ -83,3 +85,7 @@ Not very active on this right know.
 * **Kylie Minogue**
 * Florence + the Machine
 * ...
+
+## Others
+**I have to say sorry if you see me spam bunch of strange simbol all the time (if you cannot read Madarin), because I find it's more comfortable to scream in my native language.**
+You still can chat with me in English if you like. _(:з」∠)_
