@@ -42,9 +42,9 @@ List of the game based on my play time on Steam, just as a sample for my game ta
 
 <img src="/assets/images/post_images/steam-game-list1.png">
 
-<img src="images/steam-game-list2.png "> 
+<img src="/assets/images/post_images/steam-game-list2.png "> 
 
-[steam]: /assets/images/post_images/steam-game-list3.png
+<img src="/assets/images/post_images/steam-game-list3.png">
 
 
 ### Mobile
@@ -53,7 +53,7 @@ List of the game based on my play time on Steam, just as a sample for my game ta
 
 In the CN official server. 
 
-[Arknights]: images/arknights.png "profile"
+<img src="/assets/images/post_images/arknights.png">
 
 Currently addicted to this game. Hope the global server can come up soon, then I can find more ppl to discuss about this game w. 
 
@@ -61,9 +61,9 @@ Currently addicted to this game. Hope the global server can come up soon, then I
 
 In JP server.
 
-[Touken Ranbu]: /images/tkrb.png
+<img src="/assets/images/post_images/tkrb.png">
 
-[hsb]: /images/tkrb-hsb.png
+<img src="/assets/images/post_images/tkrb-hsb.png">
 
 Already max my Hasebe's lv and stats, so I have nothing left to do in this game for now.
 
@@ -71,9 +71,9 @@ Already max my Hasebe's lv and stats, so I have nothing left to do in this game 
 
 In CN server, IOS.
 
-[BGO]: /images/fgo1.png
+<img src="/assets/images/post_images/fgo1.png">
 
-[BGO]: /images/fgo2.png
+<img src="/assets/images/post_images/images/fgo2.png">
 
 Not very active on this right know. 
 
