@@ -1,5 +1,6 @@
 ---
 title: A Self Intro
+category: self-intro
 ---
 ## About me
 

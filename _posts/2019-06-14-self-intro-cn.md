@@ -1,5 +1,6 @@
 ---
 title: 一个个人简介
+category: self-intro
 ---
 ## 关于我
 
