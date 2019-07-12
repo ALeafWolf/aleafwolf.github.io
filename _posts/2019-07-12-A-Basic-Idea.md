@@ -1,5 +1,5 @@
 ---
-title: A Self Intro
+title: A Basic Idea
 category: Game Making
 ---
 其实还是很想那个很个人的游戏的，稍微想了想得搞这些东西：
