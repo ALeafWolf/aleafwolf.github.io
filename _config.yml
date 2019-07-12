@@ -4,8 +4,8 @@
 # ---------------------------------------------------------------
 
 # Site
-title: _(:з」∠)_
-subtitle: 我爱摸鱼，摸鱼爱我
+title: LeafWolf's Nest
+subtitle: 一个自言自语的地方罢了
 description: 
 author: LeafWolf
 # Support language: de, en, fr-FR, id, ja, ko, pt-BR, pt, ru, zh-Hans, zh-hk, zh-tw
@@ -216,6 +216,7 @@ font:
 social:
   #LinkLabel: Link
   Twitter: https://twitter.com/LeafWolf2333
+  GitHub: https://github.com/ALeafWolf
   Steam: https://steamcommunity.com/id/thesoulwolf/
 
 
