@@ -6,14 +6,14 @@ tag: TELE25892
 # IEEE 802.11i
 
 ## History
-* WEP (Wired Equivalent Privacy)
+### WEP (Wired Equivalent Privacy)
  - first bytes of the output keystream are "strongly non-random" = the break point
-* WPA (Wi-Fi Protected Access)
+### WPA (Wi-Fi Protected Access)
  - RC4 with TKIP (Temporal Key Integrity Protocol)
  - every packet gets unique encryption key
  - implemented a subset of 802.11i
  - **just a short-term workaround, intermediate solution**
-* WPA 2
+### WPA 2
  - began in 2004
  - **AES(Advanced Encryption Standard)** replaced RC4
  - **CCMP(Counter Mode with Cipher Block Chaining Message Authentication Code Protocol)** replaced TKIP
