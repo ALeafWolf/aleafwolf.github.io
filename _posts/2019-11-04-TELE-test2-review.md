@@ -81,6 +81,7 @@ tag: TELE25892
 
 ## RTS and CTS Frames
 * ready to send/clear to send is the mechanism that performs a NAV distribution and helps prevent collisions from occuring
+
 ![Example](/assets/images/post_images/tele-test2-1.png)
 * CTS-to-Self: a 802.11g protection mechanisms
 
