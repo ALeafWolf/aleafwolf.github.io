@@ -87,9 +87,9 @@ tag: TELE25892
 
 # Chapter 8: Media Access
 ## CSMA/CA
-![Example](/assets/images/post_images/tele-test2-2.png)
+![Example](../assets/images/post_images/tele-test2-2.png)
 * CSMA/CA vs. CSMA/CD
-![Example](/assets/images/post_images/tele-test2-3.png)
+![Example](../assets/images/post_images/tele-test2-3.png)
 ## Distributed Coordination Function (DCF)
 * fundamental/mandatory access mode of 802.11 standard
 ### Interframe Spacing (IFS)
