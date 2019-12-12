@@ -175,6 +175,17 @@ slice 4:                          i
 
 27. 
 
+28. 
+* 27:00011011
+* -27:11100100 + 1 = 11100101
+
+29. 
+- one of GPR (General Purpose Register): EBX
+- bits in the status register: 16 bits
+- number of SIMD registers: 
+- number of floating point registers (32-bit registers): 8
+- byte of memory can be addressed not counting address extension:(2^32 - 1)/8
+
 31. 12.5625 to IEEE-754 binary
 ```
 12 = 1100
@@ -184,6 +195,11 @@ slice 4:                          i
 0.2500  0.5000  0
 0.5000  1.0000  1
                 0
+
+1100.10010 = 1.10010010 x 2^3
+S: 0
+E: 127+3 = 130 = 10000010
+SEM: 0 10000010 10010010000000000000000
 ```
 
 32. 1000000 cycles, CPI 20, number of instructions?
@@ -224,7 +240,6 @@ mov [bx],cx
 sub dl, 1 
 cmp dl, 0
 JNE charLoop
-
 
 RET  
 ```
