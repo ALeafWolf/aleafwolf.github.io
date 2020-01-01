@@ -1,7 +1,9 @@
 ---
 title: TELE25892 Final Review
 category: Self-review
-tag: TELE25892
+tag: 
+- TELE25892
+- 测试
 ---
 # RF Measurement
 1. Main components of an RF communication link? What do you understand by IR and EIRP?
