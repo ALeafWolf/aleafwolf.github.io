@@ -14,7 +14,7 @@ tag: TELE25892
 * SNR
 * Noise Floor
 * Receive sensitivity
-8. Antenna beamforming: 
+8. Antenna beamforming: use an antenna array for the directional signal transission or reception
 
 # 3G, 4G and Beyond
 1. List 4 key 3G vision statements.
@@ -47,3 +47,16 @@ tag: TELE25892
 * 5 Gbps - 50 Gbps downlink throughput
 * massive MIMO and beamforming
 * ability to support either FDD or TDD modes for 5G radio bands
+
+# Others
+1. Wireless Connectivity
+* Transmission error
+* Low bandwidth
+* Long or variable latency
+* Asymmetry in bandwidth and error characteristics
+2. 802.11e: enhanced medium access methods to support QoS requirements
+3. Distributed Coordination Function
+* interframe space:period of time exist between wireless frame transmissions
+* duration/ID field: the time required to transmit the ACK and SIFS
+* carrier sense:check if the medium is busy
+* random back-off timer
