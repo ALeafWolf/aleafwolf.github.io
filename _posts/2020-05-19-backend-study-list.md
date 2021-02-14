@@ -1,7 +1,9 @@
 ---
 title: "Backend study list"
-layout: posts
+layout: single
 categories: 
+  - Something
+tags:
   - Something
 ---
 把要学的东西都给列一下.jpg
